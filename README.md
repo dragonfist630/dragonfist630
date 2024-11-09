@@ -53,6 +53,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/dragonfist630/dragonfist630/output/snake.svg" alt="" />
+<!--<img src="https://raw.githubusercontent.com/dragonfist630/dragonfist630/output/snake.svg" alt="" /> -->
 
 ###
