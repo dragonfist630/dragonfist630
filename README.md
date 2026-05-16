@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hi 👋! My name is Nayan and I'm a Graduate Software Engineer, from London, UK</h1>
+<h1 align="left">Hi 👋! My name is Nayan and I'm a Software Engineer, from London, UK</h1>
 
 ###
 
