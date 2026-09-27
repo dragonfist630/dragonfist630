@@ -45,3 +45,7 @@
 </div>
 
 ###
+
+**[Goodspeed Studio — AI-Powered Knowledge Base](https://github.com/dragonfist630/knowledge-base) (TypeScript, Next.js, NestJS, PostgreSQL/pgvector)**
+
+* Architected a full-stack RAG knowledge base with hybrid vector + full-text retrieval fused via reciprocal rank fusion, using Postgres Row-Level Security as the sole authorization boundary to enable secure multi-tenant document search with zero application-layer access-control code, backed by a crash-safe, atomically-claimed indexing queue, a fully swappable AI provider layer (OpenAI, Groq, Ollama), and a CI/CD pipeline that runs real Postgres+RLS and Playwright end-to-end gates on every push.
